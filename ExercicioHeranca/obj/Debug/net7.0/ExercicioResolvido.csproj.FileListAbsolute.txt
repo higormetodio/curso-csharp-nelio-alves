@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.exe
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.deps.json
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.runtimeconfig.json
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.dll
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.pdb
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfo.cs
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.dll
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\refint\ExercicioResolvido.dll
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.pdb
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.genruntimeconfig.cache
+C:\dev\NelioAlves\Herenca\ExercicioResolvido\obj\Debug\net7.0\ref\ExercicioResolvido.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\NelioAlves\\ExerciciosPropostos\\EnumeracaoComposicao\\EnumeracaoComposicao.csproj": {}
+    "C:\\dev\\NelioAlves\\Herenca\\ExercicioResolvido\\ExercicioResolvido.csproj": {}
   },
   "projects": {
-    "c:\\dev\\NelioAlves\\ExerciciosPropostos\\EnumeracaoComposicao\\EnumeracaoComposicao.csproj": {
+    "C:\\dev\\NelioAlves\\Herenca\\ExercicioResolvido\\ExercicioResolvido.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\NelioAlves\\ExerciciosPropostos\\EnumeracaoComposicao\\EnumeracaoComposicao.csproj",
-        "projectName": "EnumeracaoComposicao",
-        "projectPath": "c:\\dev\\NelioAlves\\ExerciciosPropostos\\EnumeracaoComposicao\\EnumeracaoComposicao.csproj",
+        "projectUniqueName": "C:\\dev\\NelioAlves\\Herenca\\ExercicioResolvido\\ExercicioResolvido.csproj",
+        "projectName": "ExercicioResolvido",
+        "projectPath": "C:\\dev\\NelioAlves\\Herenca\\ExercicioResolvido\\ExercicioResolvido.csproj",
         "packagesPath": "C:\\Users\\higor\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\NelioAlves\\ExerciciosPropostos\\EnumeracaoComposicao\\obj\\",
+        "outputPath": "C:\\dev\\NelioAlves\\Herenca\\ExercicioResolvido\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\higor\\AppData\\Roaming\\NuGet\\NuGet.Config"
