@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\VetoresExercicio\bin\Debug\net7.0\VetoresExercicio.exe
+C:\dev\NelioAlves\VetoresExercicio\bin\Debug\net7.0\VetoresExercicio.deps.json
+C:\dev\NelioAlves\VetoresExercicio\bin\Debug\net7.0\VetoresExercicio.runtimeconfig.json
+C:\dev\NelioAlves\VetoresExercicio\bin\Debug\net7.0\VetoresExercicio.dll
+C:\dev\NelioAlves\VetoresExercicio\bin\Debug\net7.0\VetoresExercicio.pdb
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.AssemblyInfo.cs
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.dll
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\refint\VetoresExercicio.dll
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.pdb
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\VetoresExercicio.genruntimeconfig.cache
+C:\dev\NelioAlves\VetoresExercicio\obj\Debug\net7.0\ref\VetoresExercicio.dll

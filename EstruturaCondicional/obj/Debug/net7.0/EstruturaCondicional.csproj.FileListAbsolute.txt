@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.exe
+C:\dev\NelioAlves\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.deps.json
+C:\dev\NelioAlves\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.runtimeconfig.json
+C:\dev\NelioAlves\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.dll
+C:\dev\NelioAlves\EstruturaCondicional\bin\Debug\net7.0\EstruturaCondicional.pdb
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.AssemblyInfo.cs
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.dll
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\refint\EstruturaCondicional.dll
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.pdb
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\EstruturaCondicional.genruntimeconfig.cache
+C:\dev\NelioAlves\EstruturaCondicional\obj\Debug\net7.0\ref\EstruturaCondicional.dll

@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\Herenca\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.exe
+C:\dev\NelioAlves\Herenca\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.deps.json
+C:\dev\NelioAlves\Herenca\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.runtimeconfig.json
+C:\dev\NelioAlves\Herenca\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.dll
+C:\dev\NelioAlves\Herenca\ExercicioProposto\bin\Debug\net7.0\ExercicioProposto.pdb
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.AssemblyInfo.cs
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.dll
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\refint\ExercicioProposto.dll
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.pdb
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ExercicioProposto.genruntimeconfig.cache
+C:\dev\NelioAlves\Herenca\ExercicioProposto\obj\Debug\net7.0\ref\ExercicioProposto.dll

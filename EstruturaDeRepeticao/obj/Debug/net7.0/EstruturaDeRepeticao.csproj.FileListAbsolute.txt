@@ -1,0 +1,14 @@
+c:\dev\NelioAlves\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.exe
+c:\dev\NelioAlves\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.deps.json
+c:\dev\NelioAlves\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.runtimeconfig.json
+c:\dev\NelioAlves\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.dll
+c:\dev\NelioAlves\EstruturaDeRepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.pdb
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.AssemblyInfo.cs
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.dll
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\refint\EstruturaDeRepeticao.dll
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.pdb
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.genruntimeconfig.cache
+c:\dev\NelioAlves\EstruturaDeRepeticao\obj\Debug\net7.0\ref\EstruturaDeRepeticao.dll

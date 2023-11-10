@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\bin\Debug\net7.0\Banco.exe
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\bin\Debug\net7.0\Banco.deps.json
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\bin\Debug\net7.0\Banco.runtimeconfig.json
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\bin\Debug\net7.0\Banco.dll
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\bin\Debug\net7.0\Banco.pdb
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.AssemblyInfo.cs
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.dll
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\refint\Banco.dll
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.pdb
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
+C:\dev\NelioAlves\ConstrutoresEncapsulamento\Banco\obj\Debug\net7.0\ref\Banco.dll

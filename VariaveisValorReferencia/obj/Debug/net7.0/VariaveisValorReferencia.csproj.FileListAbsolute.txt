@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\VariaveisValorReferencia\bin\Debug\net7.0\VariaveisValorReferencia.exe
+C:\dev\NelioAlves\VariaveisValorReferencia\bin\Debug\net7.0\VariaveisValorReferencia.deps.json
+C:\dev\NelioAlves\VariaveisValorReferencia\bin\Debug\net7.0\VariaveisValorReferencia.runtimeconfig.json
+C:\dev\NelioAlves\VariaveisValorReferencia\bin\Debug\net7.0\VariaveisValorReferencia.dll
+C:\dev\NelioAlves\VariaveisValorReferencia\bin\Debug\net7.0\VariaveisValorReferencia.pdb
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.AssemblyInfo.cs
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.dll
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\refint\VariaveisValorReferencia.dll
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.pdb
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\VariaveisValorReferencia.genruntimeconfig.cache
+C:\dev\NelioAlves\VariaveisValorReferencia\obj\Debug\net7.0\ref\VariaveisValorReferencia.dll

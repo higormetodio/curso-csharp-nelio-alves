@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\EstruturaFor\bin\Debug\net7.0\EstruturaFor.exe
+C:\dev\NelioAlves\EstruturaFor\bin\Debug\net7.0\EstruturaFor.deps.json
+C:\dev\NelioAlves\EstruturaFor\bin\Debug\net7.0\EstruturaFor.runtimeconfig.json
+C:\dev\NelioAlves\EstruturaFor\bin\Debug\net7.0\EstruturaFor.dll
+C:\dev\NelioAlves\EstruturaFor\bin\Debug\net7.0\EstruturaFor.pdb
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.AssemblyInfo.cs
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.dll
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\refint\EstruturaFor.dll
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.pdb
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\EstruturaFor.genruntimeconfig.cache
+C:\dev\NelioAlves\EstruturaFor\obj\Debug\net7.0\ref\EstruturaFor.dll

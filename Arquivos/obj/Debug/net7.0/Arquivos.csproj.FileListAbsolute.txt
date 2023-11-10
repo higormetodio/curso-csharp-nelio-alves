@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\Arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\dev\NelioAlves\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\dev\NelioAlves\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\dev\NelioAlves\Arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\dev\NelioAlves\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\dev\NelioAlves\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll

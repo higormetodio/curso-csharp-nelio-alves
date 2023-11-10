@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.exe
+C:\dev\NelioAlves\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.deps.json
+C:\dev\NelioAlves\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.runtimeconfig.json
+C:\dev\NelioAlves\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.dll
+C:\dev\NelioAlves\GenericsSetDictionary\bin\Debug\net7.0\GenericsSetDictionary.pdb
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.AssemblyInfo.cs
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.dll
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\refint\GenericsSetDictionary.dll
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.pdb
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\GenericsSetDictionary.genruntimeconfig.cache
+C:\dev\NelioAlves\GenericsSetDictionary\obj\Debug\net7.0\ref\GenericsSetDictionary.dll

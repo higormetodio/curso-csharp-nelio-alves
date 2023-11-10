@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.AssemblyInfo.cs
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\Interfaces\NoInterface\bin\Debug\net7.0\NoInterface.exe
+C:\dev\NelioAlves\Interfaces\NoInterface\bin\Debug\net7.0\NoInterface.deps.json
+C:\dev\NelioAlves\Interfaces\NoInterface\bin\Debug\net7.0\NoInterface.runtimeconfig.json
+C:\dev\NelioAlves\Interfaces\NoInterface\bin\Debug\net7.0\NoInterface.dll
+C:\dev\NelioAlves\Interfaces\NoInterface\bin\Debug\net7.0\NoInterface.pdb
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.dll
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\refint\NoInterface.dll
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.pdb
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\NoInterface.genruntimeconfig.cache
+C:\dev\NelioAlves\Interfaces\NoInterface\obj\Debug\net7.0\ref\NoInterface.dll

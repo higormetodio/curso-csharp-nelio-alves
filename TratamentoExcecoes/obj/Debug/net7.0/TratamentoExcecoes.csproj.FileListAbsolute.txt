@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\TratamentoExcecoes\bin\Debug\net7.0\TratamentoExcecoes.exe
+C:\dev\NelioAlves\TratamentoExcecoes\bin\Debug\net7.0\TratamentoExcecoes.deps.json
+C:\dev\NelioAlves\TratamentoExcecoes\bin\Debug\net7.0\TratamentoExcecoes.runtimeconfig.json
+C:\dev\NelioAlves\TratamentoExcecoes\bin\Debug\net7.0\TratamentoExcecoes.dll
+C:\dev\NelioAlves\TratamentoExcecoes\bin\Debug\net7.0\TratamentoExcecoes.pdb
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.dll
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\refint\TratamentoExcecoes.dll
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.pdb
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\TratamentoExcecoes.genruntimeconfig.cache
+C:\dev\NelioAlves\TratamentoExcecoes\obj\Debug\net7.0\ref\TratamentoExcecoes.dll

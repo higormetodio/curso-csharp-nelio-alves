@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\ListaExercicio\bin\Debug\net7.0\ListaExercicio.exe
+C:\dev\NelioAlves\ListaExercicio\bin\Debug\net7.0\ListaExercicio.deps.json
+C:\dev\NelioAlves\ListaExercicio\bin\Debug\net7.0\ListaExercicio.runtimeconfig.json
+C:\dev\NelioAlves\ListaExercicio\bin\Debug\net7.0\ListaExercicio.dll
+C:\dev\NelioAlves\ListaExercicio\bin\Debug\net7.0\ListaExercicio.pdb
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.AssemblyInfo.cs
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.dll
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\refint\ListaExercicio.dll
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.pdb
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ListaExercicio.genruntimeconfig.cache
+C:\dev\NelioAlves\ListaExercicio\obj\Debug\net7.0\ref\ListaExercicio.dll

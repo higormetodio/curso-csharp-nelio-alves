@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\Enumeracoes\bin\Debug\net7.0\Enumeracoes.exe
+C:\dev\NelioAlves\Enumeracoes\bin\Debug\net7.0\Enumeracoes.deps.json
+C:\dev\NelioAlves\Enumeracoes\bin\Debug\net7.0\Enumeracoes.runtimeconfig.json
+C:\dev\NelioAlves\Enumeracoes\bin\Debug\net7.0\Enumeracoes.dll
+C:\dev\NelioAlves\Enumeracoes\bin\Debug\net7.0\Enumeracoes.pdb
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.AssemblyInfo.cs
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.dll
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\refint\Enumeracoes.dll
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.pdb
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\Enumeracoes.genruntimeconfig.cache
+C:\dev\NelioAlves\Enumeracoes\obj\Debug\net7.0\ref\Enumeracoes.dll

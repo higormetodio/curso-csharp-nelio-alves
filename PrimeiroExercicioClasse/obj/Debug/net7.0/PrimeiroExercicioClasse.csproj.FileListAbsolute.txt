@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\PrimeiroExercicioClasse\bin\Debug\net7.0\PrimeiroExercicioClasse.exe
+C:\dev\NelioAlves\PrimeiroExercicioClasse\bin\Debug\net7.0\PrimeiroExercicioClasse.deps.json
+C:\dev\NelioAlves\PrimeiroExercicioClasse\bin\Debug\net7.0\PrimeiroExercicioClasse.runtimeconfig.json
+C:\dev\NelioAlves\PrimeiroExercicioClasse\bin\Debug\net7.0\PrimeiroExercicioClasse.dll
+C:\dev\NelioAlves\PrimeiroExercicioClasse\bin\Debug\net7.0\PrimeiroExercicioClasse.pdb
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.AssemblyInfo.cs
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.dll
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\refint\PrimeiroExercicioClasse.dll
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.pdb
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\PrimeiroExercicioClasse.genruntimeconfig.cache
+C:\dev\NelioAlves\PrimeiroExercicioClasse\obj\Debug\net7.0\ref\PrimeiroExercicioClasse.dll

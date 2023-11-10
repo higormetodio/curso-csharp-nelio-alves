@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.AssemblyInfo.cs
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\ProjetoXadrez\bin\Debug\net7.0\ProjetoXadrez.exe
+C:\dev\NelioAlves\ProjetoXadrez\bin\Debug\net7.0\ProjetoXadrez.deps.json
+C:\dev\NelioAlves\ProjetoXadrez\bin\Debug\net7.0\ProjetoXadrez.runtimeconfig.json
+C:\dev\NelioAlves\ProjetoXadrez\bin\Debug\net7.0\ProjetoXadrez.dll
+C:\dev\NelioAlves\ProjetoXadrez\bin\Debug\net7.0\ProjetoXadrez.pdb
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.dll
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\refint\ProjetoXadrez.dll
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.pdb
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ProjetoXadrez.genruntimeconfig.cache
+C:\dev\NelioAlves\ProjetoXadrez\obj\Debug\net7.0\ref\ProjetoXadrez.dll

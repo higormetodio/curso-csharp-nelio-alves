@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\bin\Debug\net7.0\ExercicioFixacao.exe
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\bin\Debug\net7.0\ExercicioFixacao.deps.json
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\bin\Debug\net7.0\ExercicioFixacao.runtimeconfig.json
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\bin\Debug\net7.0\ExercicioFixacao.dll
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\bin\Debug\net7.0\ExercicioFixacao.pdb
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.AssemblyInfo.cs
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.dll
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\refint\ExercicioFixacao.dll
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.pdb
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ExercicioFixacao.genruntimeconfig.cache
+C:\dev\NelioAlves\Interfaces\ExercicioFixacao\obj\Debug\net7.0\ref\ExercicioFixacao.dll

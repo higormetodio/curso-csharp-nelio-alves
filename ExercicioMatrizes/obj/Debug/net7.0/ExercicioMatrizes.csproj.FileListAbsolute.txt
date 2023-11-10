@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.exe
+C:\dev\NelioAlves\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.deps.json
+C:\dev\NelioAlves\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.runtimeconfig.json
+C:\dev\NelioAlves\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.dll
+C:\dev\NelioAlves\ExercicioMatrizes\bin\Debug\net7.0\ExercicioMatrizes.pdb
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.dll
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\refint\ExercicioMatrizes.dll
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.pdb
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\dev\NelioAlves\ExercicioMatrizes\obj\Debug\net7.0\ref\ExercicioMatrizes.dll

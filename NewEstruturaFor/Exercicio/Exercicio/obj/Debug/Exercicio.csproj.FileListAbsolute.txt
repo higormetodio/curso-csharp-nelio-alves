@@ -1,0 +1,7 @@
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\dev\NelioAlves\NewEstruturaFor\Exercicio\Exercicio\obj\Debug\Exercicio.pdb
