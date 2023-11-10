@@ -1,0 +1,14 @@
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.AssemblyInfoInputs.cache
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.AssemblyInfo.cs
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.csproj.CoreCompileInputs.cache
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\bin\Debug\net7.0\EnumeracaoComposicao.exe
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\bin\Debug\net7.0\EnumeracaoComposicao.deps.json
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\bin\Debug\net7.0\EnumeracaoComposicao.runtimeconfig.json
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\bin\Debug\net7.0\EnumeracaoComposicao.dll
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\bin\Debug\net7.0\EnumeracaoComposicao.pdb
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.dll
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\refint\EnumeracaoComposicao.dll
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.pdb
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\EnumeracaoComposicao.genruntimeconfig.cache
+C:\dev\NelioAlves\ExerciciosPropostos\EnumeracaoComposicao\obj\Debug\net7.0\ref\EnumeracaoComposicao.dll
